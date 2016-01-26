@@ -2,6 +2,8 @@
 
 _A Slackbot that searches genius.com_.
 
+This was built from Andrew Mager (@magner)'s tutorial. 
+
 This Slackbot that receives input through a [slash command](https://api.slack.com/slash-commands) and sends a request to an API.
 
 A detailed tutorial about how I built this is on Medium: [https://goo.gl/wDyayI](https://goo.gl/wDyayI)
